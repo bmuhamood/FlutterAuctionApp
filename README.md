@@ -21,8 +21,6 @@ Flutter Online Auction App is a mobile application built with Flutter. It allows
 - Switch Dark & Light Theme
 - User Profile
 
-See also: [Online Auction App Backend](https://github.com/ikhsan3adi/ci4_online_auction_api)
-
 ## Screenshots
 
 |               | <p align="center">Light Theme</p> | <p align="center"> Dark Theme</p> |
@@ -84,20 +82,9 @@ cd ../../
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## Donation
-
-[![Donate paypal](https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge)](https://paypal.me/xannxett?country.x=ID&locale.x=en_US)
-[![Donate saweria](https://img.shields.io/badge/Donate-Saweria-red?style=for-the-badge&link=https%3A%2F%2Fsaweria.co%2Fxiboxann)](https://saweria.co/xiboxann)
-
 ## License
 
 [![GitHub license](https://img.shields.io/github/license/ikhsan3adi/Flutter-Auction-App?style=for-the-badge)](https://github.com/ikhsan3adi/Flutter-Auction-App/raw/master/LICENSE)
-
-## Contributors
-
-- [@ikhsan3adi](https://www.github.com/ikhsan3adi)
-
-- [@asyncguy](https://www.github.com/asyncguy)
 
 
 Don't forget to follow :ok_hand:
