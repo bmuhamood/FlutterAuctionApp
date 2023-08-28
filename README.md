@@ -33,8 +33,6 @@ Flutter Online Auction App is a mobile application built with Flutter. It allows
 | My Item       | <img src="https://github.com/ikhsan3adi/Flutter-Auction-App/raw/master/images/screenshots/my-item-light.png">  | <img src="https://github.com/ikhsan3adi/Flutter-Auction-App/raw/master/images/screenshots/my-item-dark.png">  |
 | My Auction    |<img src="https://github.com/ikhsan3adi/Flutter-Auction-App/raw/master/images/screenshots/my-auction-light.png">|<img src="https://github.com/ikhsan3adi/Flutter-Auction-App/raw/master/images/screenshots/my-auction-dark.png">|
 
-<a href="https://github.com/ikhsan3adi/Flutter-Auction-App/tree/master/images">More images</a>
-
 ## Getting Started
 
 ### Prerequisites
