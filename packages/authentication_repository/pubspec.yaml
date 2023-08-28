@@ -1,0 +1,27 @@
+name: authentication_repository
+description: A new package project.
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+
+dependencies:
+  dio: ^5.1.0
+  equatable: ^2.0.3
+  json_annotation: ^4.7.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  jwt_decoder: ^2.0.1
+  uuid: ^3.0.7
+  
+  user_repository:
+    path: ../user_repository
+
+dev_dependencies:
+  hive_generator: ^2.0.0
+  build_runner: ^2.3.3
+  json_serializable: ^6.5.4
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec

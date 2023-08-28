@@ -1,0 +1,23 @@
+name: auction_repository
+description: A new package project.
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+
+dependencies:
+  equatable: ^2.0.3
+  json_annotation: ^4.7.0
+  dio: ^5.1.0
+  
+  user_repository:
+    path: ../user_repository
+
+
+dev_dependencies:
+  build_runner: ^2.3.3
+  json_serializable: ^6.5.4
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
